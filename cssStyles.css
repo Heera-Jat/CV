@@ -1,0 +1,20 @@
+/*********** Tag selectors ********/
+
+h1 { color: blue;
+    font-size: 150px;
+}
+img:hover {background-color: gold;}
+
+/*********** class selectors (we can use many times same class) ********/
+
+
+.cricket { background-color: blueviolet;}
+.bat { background-color: aqua;}
+.circular { border-radius: 100%;}
+
+/*we can use two or more class in same img but it is not possible for ID*/
+
+/*********** ID selectors (only one id and once use)********/
+#heading { background-color: blanchedalmond;
+color: hotpink;}
+
